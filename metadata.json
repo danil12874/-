@@ -1,0 +1,7 @@
+{
+  "name": "태봉강업 (TAEBONG STEEL) - H빔 전문 기업",
+  "description": "현대적이고 전문적인 H빔 강구조 제작 및 설치 전문 기업 태봉강업의 공식 웹사이트입니다. 관리자 대시보드와 AI SEO 도구를 포함합니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
